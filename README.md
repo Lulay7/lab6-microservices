@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-| 780180 | [Carlos Navarro](https://github.com/Lulay7/lab6-microservices) | [report](https://github.com/Lulay7/lab6-microservices/blob/c295e1f8973ff123815377bd1588a0e2f23034c0/report/report.md |             |       |
+| 780180 | [Carlos Navarro](https://github.com/Lulay7/lab6-microservices) | [report](https://github.com/Lulay7/lab6-microservices/blob/c295e1f8973ff123815377bd1588a0e2f23034c0/report/report.md) |             |       |
